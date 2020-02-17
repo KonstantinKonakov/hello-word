@@ -1,0 +1,2 @@
+def checkPalindrome(inputString): #Checking palindrome - reverse and direct
+    return (inputString == inputString[::-1])
